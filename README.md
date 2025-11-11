@@ -1,4 +1,3 @@
-```markdown
 # local
 
 [![Repo size](https://img.shields.io/github/repo-size/mkhamzanov/local)](https://github.com/mkhamzanov/local)
@@ -136,4 +135,3 @@ PR (готовая информация)
 - Body (short): "Add a human-friendly bilingual README, reusable LTV scripts (generate/transform/forecast), and reference docs. Move towards a clearer notebooks+scripts layout and add assets/plots for outputs."
 
 If you want — I will open the PR for you after you confirm. If you want me to open it immediately, reply: "Open PR now" and I will proceed to create commits on branch readme-scripts-docs and open the PR.
-```
